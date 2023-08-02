@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 13 Pro",
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021_inline.jpg.large.jpg",
+      "description": "A flagship iPhone model with a powerful A15 Bionic chip, a stunning Super Retina XDR display, and an advanced camera system.",
+      "price": 999.0,
+      "specifications": {
+        "screen_size": "6.1 inches",
+        "processor": "Apple A15 Bionic",
+        "ram": "6GB",
+        "storage": "128GB",
+        "camera": "Triple-camera setup (12MP + 12MP + 12MP)",
+        "battery": "3095mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "TechGuru",
+          "rating": 5,
+          "review": "Absolutely impressed with this phone! Performance and camera are top-notch."
+        },
+        {
+          "username": "MobileLover",
+          "rating": 4,
+          "review": "Great phone, but battery life could be better."
+        }
+      ],
+      "relatedProducts": [2, 3],
+      "shippingInfo": {
+        "delivery_time": "2-4 business days",
+        "shipping_cost": "Free shipping"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/11/Samsung-Galaxy-S21-Ultra-5G-500x500.jpg",
+      "description": "A premium Android phone featuring a large AMOLED display with a high refresh rate, a powerful Exynos or Snapdragon processor (depending on the region), and a versatile camera setup.",
+      "price": 1199.99,
+      "specifications": {
+        "screen_size": "6.8 inches",
+        "processor": "Exynos 2100 / Snapdragon 888",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "Quad-camera setup (108MP + 10MP + 10MP + 12MP)",
+        "battery": "5000mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "TechEnthusiast",
+          "rating": 5,
+          "review": "This phone is a beast! Impressive performance and camera capabilities."
+        },
+        {
+          "username": "PhotoPro",
+          "rating": 4,
+          "review": "Amazing camera quality, but the phone is a bit bulky."
+        }
+      ],
+      "relatedProducts": [1, 3],
+      "shippingInfo": {
+        "delivery_time": "3-5 business days",
+        "shipping_cost": "Free shipping"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3784-95312.jpg",
+      "description": "A high-end Android phone known for its exceptional camera capabilities, powered by Google's Tensor chip for AI performance.",
+      "price": 899.0,
+      "specifications": {
+        "screen_size": "6.7 inches",
+        "processor": "Google Tensor",
+        "ram": "12GB",
+        "storage": "128GB",
+        "camera": "Dual-camera setup (50MP + 12MP)",
+        "battery": "5000mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "PixelFanatic",
+          "rating": 5,
+          "review": "The camera on this phone is simply amazing! Highly recommended."
+        },
+        {
+          "username": "TechLover",
+          "rating": 4,
+          "review": "Great phone with smooth performance, but battery life could be better."
+        }
+      ],
+      "relatedProducts": [1, 2],
+      "shippingInfo": {
+        "delivery_time": "2-4 business days",
+        "shipping_cost": "Free shipping"
+      }
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9 Pro",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/compare/in/compare/9-pro/9pPineGreen.png",
+      "description": "A flagship Android phone with a smooth 120Hz AMOLED display, powerful Snapdragon processor, and a Hasselblad-tuned camera system.",
+      "price": 899.0,
+      "specifications": {
+        "screen_size": "6.7 inches",
+        "processor": "Snapdragon 888",
+        "ram": "8GB",
+        "storage": "128GB",
+        "camera": "Quad-camera setup (48MP + 50MP + 8MP + 2MP)",
+        "battery": "4500mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "TechAddict",
+          "rating": 5,
+          "review": "Fantastic phone with a smooth and fluid user experience."
+        },
+        {
+          "username": "PhotoEnthusiast",
+          "rating": 4,
+          "review": "Great camera performance, but battery life could be better."
+        }
+      ],
+      "relatedProducts": [5, 6],
+      "shippingInfo": {
+        "delivery_time": "1-3 business days",
+        "shipping_cost": "Free shipping"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 11 Ultra",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/2675-93346.jpg",
+      "description": "A high-performance Android phone with a large AMOLED display, Snapdragon processor, and an impressive camera array.",
+      "price": 1099.0,
+      "specifications": {
+        "screen_size": "6.81 inches",
+        "processor": "Snapdragon 888",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "Triple-camera setup (50MP + 48MP + 48MP)",
+        "battery": "5000mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "MobilePhotographer",
+          "rating": 5,
+          "review": "The camera quality is outstanding! Perfect for mobile photography enthusiasts."
+        },
+        {
+          "username": "TechLover",
+          "rating": 4,
+          "review": "Impressive phone, but it's a bit on the heavier side."
+        }
+      ],
+      "relatedProducts": [4, 6],
+      "shippingInfo": {
+        "delivery_time": "2-4 business days",
+        "shipping_cost": "Free shipping"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Oppo Find X3 Pro",
+      "image": "https://www.oppo.com/content/dam/oppo/product-asset-library/find-x3-series/weu-find-x3-pro/v2/assets/product-design-phone-blue.png",
+      "description": "A premium Android phone with a beautiful display, a Snapdragon processor, and a versatile quad-camera setup.",
+      "price": 999.0,
+      "specifications": {
+        "screen_size": "6.7 inches",
+        "processor": "Snapdragon 888",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "Quad-camera setup (50MP + 13MP + 50MP + 3MP)",
+        "battery": "4500mAh"
+      },
+      "availability": true,
+      "customerReviews": [
+        {
+          "username": "GadgetEnthusiast",
+          "rating": 5,
+          "review": "A well-rounded phone with impressive camera features."
+        },
+        {
+          "username": "TechReviewer",
+          "rating": 4,
+          "review": "Excellent phone, but it's a bit on the expensive side."
+        }
+      ],
+      "relatedProducts": [4, 5],
+      "shippingInfo": {
+        "delivery_time": "2-4 business days",
+        "shipping_cost": "Free shipping"
+      }
+    }
+  ]
+}
