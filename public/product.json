@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      
       "name": "Apple iPhone 13 Pro",
       "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021_inline.jpg.large.jpg",
       "description": "A flagship iPhone model with a powerful A15 Bionic chip, a stunning Super Retina XDR display, and an advanced camera system.",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 2,
+     
       "name": "Samsung Galaxy S21 Ultra",
       "image": "https://www.gizmochina.com/wp-content/uploads/2020/11/Samsung-Galaxy-S21-Ultra-5G-500x500.jpg",
       "description": "A premium Android phone featuring a large AMOLED display with a high refresh rate, a powerful Exynos or Snapdragon processor (depending on the region), and a versatile camera setup.",
@@ -67,7 +67,7 @@
       }
     },
     {
-      "id": 3,
+      
       "name": "Google Pixel 6 Pro",
       "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3784-95312.jpg",
       "description": "A high-end Android phone known for its exceptional camera capabilities, powered by Google's Tensor chip for AI performance.",
@@ -100,7 +100,7 @@
       }
     },
     {
-      "id": 4,
+      
       "name": "OnePlus 9 Pro",
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/compare/in/compare/9-pro/9pPineGreen.png",
       "description": "A flagship Android phone with a smooth 120Hz AMOLED display, powerful Snapdragon processor, and a Hasselblad-tuned camera system.",
@@ -133,7 +133,7 @@
       }
     },
     {
-      "id": 5,
+      
       "name": "Xiaomi Mi 11 Ultra",
       "image": "https://adminapi.applegadgetsbd.com/storage/media/large/2675-93346.jpg",
       "description": "A high-performance Android phone with a large AMOLED display, Snapdragon processor, and an impressive camera array.",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 6,
+      
       "name": "Oppo Find X3 Pro",
       "image": "https://www.oppo.com/content/dam/oppo/product-asset-library/find-x3-series/weu-find-x3-pro/v2/assets/product-design-phone-blue.png",
       "description": "A premium Android phone with a beautiful display, a Snapdragon processor, and a versatile quad-camera setup.",

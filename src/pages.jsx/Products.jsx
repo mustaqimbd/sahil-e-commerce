@@ -7,9 +7,9 @@ const Products = () => {
 
   useEffect(() => {
     instance
-      .get(`/product.json`)
+      .get(`/products`)
       .then((res) => {
-        setProducts(res.data.products);
+        setProducts(res.data);
         console.log(res.data);
       })
       .catch((err) => {
@@ -19,8 +19,8 @@ const Products = () => {
 
   return (
     <div className="grid grid-cols-3 gap-6 my-10">
-      {products.map((product) => {
-        return <Card product={product} key={product.id} />;
+      {products?.map((product) => {
+        return <Card product={product} key={product._id} />;
       })}
     </div>
   );
